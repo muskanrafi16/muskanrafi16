@@ -12,8 +12,6 @@ I am a technically skilled and result-driven full-stack engineer with extensive 
 * 🤝  I'm open to collaborating on diverse projects
 * ⚡  Graduated with major in Computer Science from the [University of Engineering & Technology (UET) Lahore](https://www.uet.edu.pk).
 
-<a href="https://www.github.com/muskanrafi16" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/muskanrafi16?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
